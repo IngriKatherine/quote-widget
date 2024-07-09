@@ -1,4 +1,5 @@
 const quotes = [
+    { text: "What you are looking for is in the work you are avoiding.", author: "-" },
     { text: "Not all efforts pay the same. Time and effort levels are finite. So, redirect them accordingly.", author: "-" },
     { text: "Enterprise is better than ease...One week of neglect brings one year of regret", author: " Jim Rohn" },
     { text: "The world treats you different when you get it done", author: "-" },
