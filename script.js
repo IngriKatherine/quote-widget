@@ -1,4 +1,5 @@
 const quotes = [
+    { text: "Goals are good for setting a direction, but systems are best for making progress.", author: "James Clear" },
     { text: "The magic you are looking for is in the work you are avoiding.", author: "Dipen Parmar" },
     { text: "Not all efforts pay the same. Time and effort levels are finite. So, redirect them accordingly.", author: "Unknown" },
     { text: "Enterprise is better than ease...One week of neglect brings one year of regret", author: " Jim Rohn" },
