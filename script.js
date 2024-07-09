@@ -1,8 +1,8 @@
 const quotes = [
-    { text: "What you are looking for is in the work you are avoiding.", author: "-" },
-    { text: "Not all efforts pay the same. Time and effort levels are finite. So, redirect them accordingly.", author: "-" },
+    { text: "The magic you are looking for is in the work you are avoiding.", author: "Dipen Parmar" },
+    { text: "Not all efforts pay the same. Time and effort levels are finite. So, redirect them accordingly.", author: "Unknown" },
     { text: "Enterprise is better than ease...One week of neglect brings one year of regret", author: " Jim Rohn" },
-    { text: "The world treats you different when you get it done", author: "-" },
+    { text: "The world treats you different when you get it done", author: "Unknown" },
     { text: "There is no tough, smart, or talented. There are trained or not trained", author: "Denzel" },
     { text: "Do not neglect the easy things. What is easy to do is also easy not to do.", author: "Jim Rohn" },
     { text: "Do not major in minor things.", author: "Jim Rohn" },
@@ -13,6 +13,7 @@ const quotes = [
     { text: "The best way to predict the future is to invent it.", author: "Alan Kay" },
     { text: "The only limit to our realization of tomorrow is our doubts of today.", author: "Franklin D. Roosevelt" },
     { text: "Life is 10% what happens to us and 90% how we react to it.", author: "Charles R. Swindoll" },
+    { text: "You do not rise to the level of your goals. You fall to the level of your systems.", author: "James Clear" },
     // Add more quotes as needed
 ];
 
