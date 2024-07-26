@@ -1,5 +1,5 @@
 const quotes = [
-    { text: "Goals are good for setting a direction, but systems are best for making progress.", author: "James Clear" },
+    { text: "Every action you take is a vote for the type of person you wish to become.", author: "James Clear" },
     { text: "A person who never made a mistake never tried anything new.", author: "Albert Einstein" },
     { text: "You don’t have to be great to start, but you have to start to be great.", author: "Zig Ziglar" },
     { text: "In a world where you can be anything, be kind.", author: "Jennifer Dukes Lee" },
